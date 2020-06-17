@@ -54,3 +54,5 @@ class Shoe(models.Model):
     material = models.CharField(max_length=100)
     shoe_type = models.ForeignKey(ShoeType, on_delete=models.CASCADE)
     fasten_type = models.CharField(max_length=100)
+
+# Joe didn't actually grow up on the African Savanna, but he did last 3 episodes there on Survivor!!
