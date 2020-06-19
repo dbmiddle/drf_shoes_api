@@ -1,0 +1,1 @@
+Frontend github repo: https://github.com/dbmiddle/drf_shoestore_frontend
